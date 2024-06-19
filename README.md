@@ -1,6 +1,7 @@
 # AntVenture description
 <div align="justify">
-This is a description of the software AntVenture, which was created for education and research purposes. It requires PySimpleGUI, so you will be asked to create an account. This software simulates a colony of ants foraging on a liquid food source. AntVenture has been coded using real experimental data in Diacama ants (see Fujioka etal paper).
+    
+AntVenture was created for education and research purposes. It **requires PySimpleGUI**, so you will be asked to create an account (it's free for non-profit purposes, and they do not send spam), or you can just opt for a 30-day trial. This software simulates a colony of ants foraging on a liquid food source. AntVenture has been coded using real experimental data in Diacama ants (see Fujioka et al 2023).
 
 Using AntVenture, you can investigate the optimal foraging strategy depending on the strategy used by ants (trophallaxis vs social bucket) in diverse social and environmental contexts. You can modify the number of foraging ants and size of the colony, as well as the distance between the colony and the food source, difficulty of the terrain and quality of the food (= quantity of sugar; *yeah, ants are sweet, they love sugar!*). With AntVenture you will measure how the food is spread inside the colony and how fast ants are fed depending on the parameters you choose. **The data that you will obtain will be very similar to what you would obtain if you were conducting real experiments with ants!** This program is intended for students to: a) practice statistics, b) practical tool to learn more about ants social behaviour and concepts related to social feedback or sociality, c) simulate real data when scholar do not have the time or the means to conduct experiments with ants, d) serve as a basic tool with customizable parameters to potentially investigate other social behaviours in ants or other social insects.
 
@@ -84,4 +85,8 @@ Simulations using social bucket:
 ## Notes:
 
 This software was tested on Windows 10, Linux OS (Manjaro Xfce 4) and Mac OS XXX. I did not see any issues on Windows and Linux, but some issues may appear with the plot display (e.g., zoomed in) in MacOS. These issues do not affect the computations or the results, they only affect the visualisation or display of the plot. I hope to solve the issue in the future.
+
+## References:
+
+Fujioka, Haruna, Manon Marchand, and Adria C. LeBoeuf. "Diacamma ants adjust liquid foraging strategies in response to biophysical constraints." Proceedings of the Royal Society B 290.2000 (2023): 20230549.
 </div>
