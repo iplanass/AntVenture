@@ -1,3 +1,5 @@
+# MacOS app not working (please wait for a new release of the app, hopefully soon).
+
 # AntVenture description
 <div align="justify">
     
@@ -84,7 +86,7 @@ Simulations using social bucket:
 
 ## Notes:
 
-This software was tested on Windows 10, Linux OS (Manjaro Xfce 4) and Mac OS XXX. I did not see any issues on Windows and Linux, but some issues may appear with the plot display (e.g., zoomed in) in MacOS. These issues do not affect the computations or the results, they only affect the visualisation or display of the plot. I hope to solve the issue in the future.
+This software was tested on Mac OS 14.4.1 Sonoma. Some issues may appear with the plot display (e.g., zoomed in) in MacOS. These issues do not affect the computations or the results, they only affect the visualisation or display of the plot. I hope to solve the issue in the future.
 
 ## References:
 
