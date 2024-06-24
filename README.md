@@ -84,7 +84,7 @@ Simulations using social bucket:
 
 ## Notes:
 
-This software was tested on Windows 10, and I did not see any issues.
+This software was tested on Windows 10 and 11, and I did not see any issues.
 
 ## References:
 
