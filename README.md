@@ -1,10 +1,31 @@
-# AntVenture - README
+# AntVenture: Sims
+
+## README 
+
+<img src="https://github.com/iplanass/AntVenture/blob/main/images/logo-AntVenture.jpg" alt="Logo" align="right" width="100">
+
 Isaac Planas-Sitjà
 
 2024-06-04
 
-## AntVenture description
-This is a description of the software AntVenture, which was created for education and research purposes. It requires PySimpleGUI, so you will be asked to create an account. This software simulates a colony of ants foraging on a liquid food source. AntVenture has been coded using real experimental data in Diacama ants (see Fujioka etal paper).
+## How to download
+```
+git clone -b <branch_name> https://github.com/iplanass/AntVenture.git
+```
+Substitue *<branch_name>* by Linux-app, MacOS-app or Windows-app. This will download the app on your computer. Otherwise, just download and extract the .zip file on your computer.
+
+In **Linux** and **Windows**, you can just access AntVenture/Linux-app folder or Windows-app and run the executable file AntVenture (AntVenture.exe).
+
+In **MacOS**, it is recommended to run *AntVenture* (not *AntVenture.app*), which should open a small terminal that provides more information on what is going on. If it takes a couple of minutes to open, don't worry, it is normal (the terminal may display something like ```[...]/AntVenture; exit;``` and after a while ```Matplotlib is building the font cache; this may take a moment.```).
+
+Most probably, the first time a message will appear saying that "<ins>MacOS will not open the app, because is a potential threat</ins>". To solve this, please follow these instructions ([more information here](https://support.apple.com/en-gb/guide/mac-help/mh40616/mac)):
+
+![alt text](https://github.com/iplanass/AntVenture/blob/main/images/im0.png "mac instructions")
+
+Then, the app should run without issues.
+
+## AntVenture: Sims description
+This is a description of the software AntVenture: Sims, which simulates experiments in the laboratory with ants, and was created for education and research purposes. It requires PySimpleGUI, so you will be asked to create an account. This software simulates a colony of ants foraging on a liquid food source. AntVenture has been coded using real experimental data in Diacama ants (see Fujioka etal paper).
 
 Using AntVenture, you can investigate the optimal foraging strategy depending on the strategy used by ants (trophallaxis vs social bucket) in diverse social and environmental contexts. You can modify the number of foraging ants and size of the colony, as well as the distance between the colony and the food source, difficulty of the terrain and quality of the food (= quantity of sugar; yeah, ants are sweet, they love sugar!). With AntVenture you will measure how the food is spread inside the colony and how fast ants are fed depending on the parameters you choose. **The data that you will obtain will be very similar to what you would obtain if you were conducting real experiments with ants!** This program is intended for students to: a) practice statistics, b) practical tool to learn more about ants social behaviour and concepts related to social feedback or sociality, c) simulate real data when scholar do not have the time or the means to conduct experiments with ants, d) serve as a basic tool with customizable parameters to potentially investigate other social behaviours in ants or other social insects.
 
