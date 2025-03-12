@@ -11,7 +11,9 @@ Using AntVenture, you can investigate the optimal foraging strategy depending on
 ### Trophallaxis vs Social Bucket
 Ants mainly possess two strategies to collect food in liquid form. They can either “drink” the liquid and store it in their crop, or they can “grab” a drop of liquid with their mandibules, and transport it as such (or they can use both strategies at the same time!). When drinking, ants will use what is called **trophallaxis** to share the liquid with other ants in the colony, where foragers regurgitate this fluid to distribute to nest-mates. When using grabbing, ants will use what is called the **social bucket** to share food: other ants directly drink from the drop between their mandibles when they are inside the colony. When using both strategies, well… first they'll need to drink and grab the liquid food, go to the nest, and share it first using the social bucket strategy, and then start doing trophallaxis.
 
-![alt text](https://github.com/iplanass/AntVenture/blob/main/images/im1.png "Ken Naganawa image")
+| ![Ken Naganawa image](https://github.com/iplanass/AntVenture/blob/main/images/im1.png "Ken Naganawa image") |
+|:--:|
+| Image from Fujioka, H., Marchand, M. & LeBoeuf, A. C. Diacamma ants adjust liquid foraging strategies in response to biophysical constraints. Proc. R. Soc. B Biol. Sci. 290, (2023). |
 
 While both strategies are used, one strategy may be better than the other depending on the context. For instance, grabbing a drop of liquid is very fast, independently of the viscosity of the liquid, but there is a chance of dropping the liquid on the floor when returning to the nest. On the contrary, the speed of *drinking* decreases with the increase of viscosity, but it is the safest way to transport the liquid back to the nest. Once forager ants arrive to the nest, they will pass this liquid to other ants, and will stimulate other workers to go out and forage on that food source. The speed to pass the liquid to other ants will highly depend on the strategy used, trophallaxis, social bucket, or both.
 
